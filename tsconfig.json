@@ -1,0 +1,4 @@
+{
+  "extends": "@aula-ignite-ui/ts-config/react.json",
+  "include": ["src"]
+}
